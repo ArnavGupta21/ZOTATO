@@ -6,4 +6,4 @@ This task has been done as an assignment received in the Advanced Programming Co
 
 For more deatiled information about the application, please read the Writeup file.
 
-Note: There are a few bugs in the code and I will try to correct them as sson as possible.
+Note: There are a few bugs in the code and I will try to correct them as soon as possible.
